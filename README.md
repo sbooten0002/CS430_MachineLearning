@@ -16,3 +16,11 @@
     5. to install a package
         go on terminal make sure I'm in the correct dir. 
         type: conda install <package I want>
+
+    6. Running a .py file
+        save file with .py 
+        click run on the top right 
+        on the bottom right corner select the kernal
+        ![image](note1.png)
+        then type ctrl + shift + v to run image below/ preview the markdown 
+![image](note1.png)
