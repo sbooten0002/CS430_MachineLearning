@@ -12,6 +12,8 @@
 
 ---
 ## Code onto Git Hub 
+- Save the file. When changing window my working project will be save automatically. 
+
 
 
 
