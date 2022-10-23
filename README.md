@@ -11,6 +11,10 @@
 - Then open in this director type: `code`
 
 ---
+
+## Making and Cloning a resp on git Hub 
+## make an enviroment 
+
 ## Code onto Git Hub 
 - Save the file. NOTE: When changing window my working project will be save automatically. 
 - Save the file when I do not change windows and I decide I want to make push working project onto GitHUB.
@@ -31,6 +35,22 @@
 3. Type `git push origin main`, to push file onto the "cloud" github. 
 4. Type `git status`, just to double check your project is added onto git hub. 
 
+---
+## Installing a Package
+- Go to terminal 
+    - select conda.
+- Select the enviroment I want it in
+- Type `conda install <package>
 
+---
+## Creating an Enviroment
+- `ctrl + shift + p` 
+    - opens menu where I can change the lang I want to work on or enviroment.
+    - W/ commands 
+    1. scroll down to "pyton select inter" 
+    2. Then select the enviroment I want 
+---
 
+## Running a .py file 
+- Save file with .py
 
